@@ -3,7 +3,7 @@ Maven Market is a multi-national grocery chain with locations in Canada, Mexico 
 
 
 This project is a part of assignment from Udemy Course 'Microsoft POWER BI DESKTOP for Business Intelligence' from Maven analytics.  Maven Market is a multi-national grocery chain with locations in Canada, Mexico and the United States.
-The Business Intelligence workflow is as follows: 
+The workflow followed for the creation of Dashboard,
 1. Data connecting and shaping the source data 
 2. Building a relational model 
 3. Adding calculated columns and measures
